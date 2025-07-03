@@ -79,6 +79,6 @@ redirect_from:
 
 <p>You can download my CV by clicking the link below. You should be redirected automatically.</p>
 
-<a href="/files/Personal_CV_20250109.pdf" class="btn">Download CV</a>
+<a href="https://damonuc.github.io/files/Personal_CV_20250109.pdf" class="btn">Download CV</a>
 
 <meta http-equiv="refresh" content="0; url=/files/Personal_CV_20250109.pdf">
