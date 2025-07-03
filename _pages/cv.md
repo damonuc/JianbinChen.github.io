@@ -81,4 +81,4 @@ redirect_from:
 
 <a href="https://damonuc.github.io/files/Personal_CV_20250109.pdf" class="btn">Download CV</a>
 
-<meta http-equiv="refresh" content="0; url=/files/Personal_CV_20250109.pdf">
+<meta http-equiv="refresh" content="0; url=[/files/Personal_CV_20250109.pdf](https://damonuc.github.io/files/Personal_CV_20250109.pdf)">
