@@ -26,8 +26,8 @@ author:
   name             : "Jianbin Chen, CFA"
   pronouns         : # example: "she/her"  
   bio              : "CFA / Ph.D. Candidate in Economics at the University of California, Riverside. Research interests include financial economics, asset pricing, and machine learning applications in finance."
-  location         : "University of California, Riverside"
-  employer         : "Red Brick University"
+  location         : "California, Riverside"
+  employer         : "University of California, Riverside" # The name of the institution or company you are affiliated with
   uri              : # URL
   email            : "JianbinChen1991@gmail.com" 
 

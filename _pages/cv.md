@@ -62,3 +62,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+## 📄 [Download Full CV (PDF)](files/Personal_CV_20250109.pdf)
