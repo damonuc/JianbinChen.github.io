@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -64,3 +64,21 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 
 ## 📄 [Download Full CV (PDF)](files/Personal_CV_20250109.pdf)
+ -->
+
+
+
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+<p>You can download my CV by clicking the link below. You should be redirected automatically.</p>
+
+<a href="/files/Personal_CV_20250109.pdf" class="btn">Download CV</a>
+
+<meta http-equiv="refresh" content="0; url=/files/Personal_CV_20250109.pdf">
